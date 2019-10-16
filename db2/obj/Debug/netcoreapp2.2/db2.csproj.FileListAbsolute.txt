@@ -1,0 +1,11 @@
+C:\Users\filtomi017\source\repos\db2\db2\bin\Debug\netcoreapp2.2\db2.deps.json
+C:\Users\filtomi017\source\repos\db2\db2\bin\Debug\netcoreapp2.2\db2.runtimeconfig.json
+C:\Users\filtomi017\source\repos\db2\db2\bin\Debug\netcoreapp2.2\db2.runtimeconfig.dev.json
+C:\Users\filtomi017\source\repos\db2\db2\bin\Debug\netcoreapp2.2\db2.dll
+C:\Users\filtomi017\source\repos\db2\db2\obj\Debug\netcoreapp2.2\db2.csprojAssemblyReference.cache
+C:\Users\filtomi017\source\repos\db2\db2\obj\Debug\netcoreapp2.2\db2.csproj.CoreCompileInputs.cache
+C:\Users\filtomi017\source\repos\db2\db2\obj\Debug\netcoreapp2.2\db2.AssemblyInfoInputs.cache
+C:\Users\filtomi017\source\repos\db2\db2\obj\Debug\netcoreapp2.2\db2.AssemblyInfo.cs
+C:\Users\filtomi017\source\repos\db2\db2\bin\Debug\netcoreapp2.2\db2.pdb
+C:\Users\filtomi017\source\repos\db2\db2\obj\Debug\netcoreapp2.2\db2.dll
+C:\Users\filtomi017\source\repos\db2\db2\obj\Debug\netcoreapp2.2\db2.pdb
